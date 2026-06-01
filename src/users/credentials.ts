@@ -14,19 +14,19 @@ export const userCredentials: UserCredential[] = [
   },
   {
     username: "sb539",
-    password: "2403",
+    password: "1234",
     deviceLimit: 3,
     displayName: "SB User 539"
   },
   {
-    username: "onkur",
-    password: "7890",
+    username: "sb1001",
+    password: "7070",
     deviceLimit: 2,
     displayName: "Onkur Baidya"
   },
   {
-    username: "admin",
-    password: "1234",
+    username: "sb499",
+    password: "5585",
     deviceLimit: 5,
     displayName: "Global Admin"
   },
@@ -37,15 +37,15 @@ export const userCredentials: UserCredential[] = [
     displayName: "Guest Member"
   },
   {
-    username: "operator",
-    password: "9999",
+    username: "sb655",
+    password: "5270",
     deviceLimit: 4,
     displayName: "Live Stream OP"
   },
   {
-    username: "bangla_stream",
-    password: "2026",
+    username: "sb728",
+    password: "4826",
     deviceLimit: 3,
-    displayName: "Bangla Premium TV"
+    displayName: "sb728"
   }
 ];
