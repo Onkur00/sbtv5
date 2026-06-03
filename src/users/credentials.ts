@@ -48,34 +48,4 @@ export const userCredentials: UserCredential[] = [
     deviceLimit: 3,
     displayName: "sb728"
   }
-  {
-    username: "sb715",
-    password: "5317",
-    deviceLimit: 5,
-    displayName: "sb715"
-  },
-  {
-    username: "sb499",
-    password: "5585",
-    deviceLimit: 5,
-    displayName: "Global Admin"
-  },
-  {
-    username: "guest",
-    password: "5555",
-    deviceLimit: 1,
-    displayName: "Guest Member"
-  },
-  {
-    username: "sb655",
-    password: "5270",
-    deviceLimit: 4,
-    displayName: "Live Stream OP"
-  },
-  {
-    username: "sb728",
-    password: "4826",
-    deviceLimit: 3,
-    displayName: "sb728"
-  }
 ];
