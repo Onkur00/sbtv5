@@ -26,6 +26,13 @@ export const sportsChannels: RawChannelData[] = [
     "groupTitle": "Sports",
     "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1927f7e219f74e24ce8eaf969bb69c4"
   },
+    {
+    "tvgId": "WillowTV",
+    "tvgName": "Willow TV",
+    "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
+    "groupTitle": "Sports",
+    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
+  },
   {
     "tvgId": "205000",
     "tvgName": "Sports Legends",
@@ -60,13 +67,6 @@ export const sportsChannels: RawChannelData[] = [
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1778085745609.png",
     "groupTitle": "Sports",
     "url": "https://nomawnoijl.gpcdn.net/akash/crazy_ex/playlist.m3u8"
-  },
-  {
-    "tvgId": "WillowTV",
-    "tvgName": "Willow TV",
-    "tvgLogo": "https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788",
-    "groupTitle": "Sports",
-    "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dd7b114180a8edb30863431634224067"
   },
   {
     "tvgId": "MarqueeSportsNetwork",
