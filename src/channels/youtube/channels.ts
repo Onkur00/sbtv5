@@ -5,18 +5,12 @@
 import { RawChannelData } from '../../types.ts';
 
 export const youtubeChannels: RawChannelData[] = [
+
   {
-    "tvgId": "LofiMusic",
-    "tvgName": "Lofi Beats Live",
-    "tvgLogo": "https://placehold.co/160x160/1e293b/ffffff?text=Lofi",
-    "groupTitle": "Youtube",
-    "url": "https://playpas.com/live/lofi.m3u8"
-  },
-  {
-    "tvgId": "YoutubeNews",
+    "tvgId": "Youtube",
     "tvgName": "Live News Bulletin",
-    "tvgLogo": "https://placehold.co/160x160/1e293b/ffffff?text=News",
+    "tvgLogo": "https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg",
     "groupTitle": "Youtube",
-    "url": "https://cctvalihls-i.akamaihd.net/hls/live/201202/cgtn/master.m3u8"
+    "url": "https://www.youtube.com/"
   }
 ];
