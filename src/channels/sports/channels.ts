@@ -27,41 +27,6 @@ export const sportsChannels: RawChannelData[] = [
     "url": "https://tvsen6.aynaott.com/asports/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e1927f7e219f74e24ce8eaf969bb69c4"
   },
   {
-    "tvgId": "SonySportsTen3HD",
-    "tvgName": "Sony Sports Ten 3 HD",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://103.99.249.139/sonyten3/index.m3u8"
-  },
-  {
-    "tvgId": "StarSports1HD",
-    "tvgName": "Star Sports 1 HD",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8"
-  },
-  {
-    "tvgId": "StarSports1HD",
-    "tvgName": "Star Sports 1 HD",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8"
-  },
-  {
-    "tvgId": "WillowExtraLive",
-    "tvgName": "Willow Extra Live",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "http://27.124.71.27/Willow_Extra/index.m3u8"
-  },
-  {
-    "tvgId": "MotorVision",
-    "tvgName": "Motor Vision",
-    "tvgLogo": "",
-    "groupTitle": "Sports",
-    "url": "https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8"
-  },
-  {
     "tvgId": "205000",
     "tvgName": "Sports Legends",
     "tvgLogo": "https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",
